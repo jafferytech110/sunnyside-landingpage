@@ -33,7 +33,10 @@ body, html{
     width: 1440px;
     scroll-behavior: smooth;
     max-width: 100%;
-    margin: 0 auto;
+    padding: 0 auto;
+}
+body{
+    background-color: #FAF9F6;
 }
 
 header{
