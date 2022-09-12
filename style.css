@@ -33,7 +33,7 @@ body, html{
     width: 1440px;
     scroll-behavior: smooth;
     max-width: 100%;
-    padding: 0 auto;
+    margin: 0 auto;
 }
 body{
     background-color: #FAF9F6;
